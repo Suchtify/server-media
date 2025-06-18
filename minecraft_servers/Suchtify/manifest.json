@@ -2,6 +2,9 @@
   "server_name": "suchtify",
   "nice_name": "Suchtify",
   "direct_ip": "suchtify.de",
+  "server_wildcards": [
+    "%.suchtify.de"
+  ],
   "supported_languages": [
      "de",
      "en"
