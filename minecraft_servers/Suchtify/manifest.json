@@ -3,7 +3,8 @@
   "nice_name": "Suchtify",
   "direct_ip": "suchtify.de",
   "supported_languages": [
-     "de"
+     "de",
+     "en"
   ],
   "social": {
     "tiktok": ".vulpixvt",
