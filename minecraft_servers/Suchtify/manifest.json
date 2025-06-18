@@ -1,0 +1,27 @@
+{
+  "server_name": "suchtify",
+  "nice_name": "Suchtify",
+  "direct_ip": "suchtify.de",
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "tiktok": ".vulpixvt",
+    "youtube": "https://www.youtube.com/@VulpixVT",
+    "discord": "https://discord.gg/6kKcyJWbbf"
+  },
+  "discord": {
+    "server_id": 1376552038447583343,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#818181",
+    "background": "#ffffff",
+    "text": "#000000"
+  },
+  "location": {
+     "city": "Frankfurt",
+     "country": "Germany",
+     "country_code": "DE"
+   }
+}
